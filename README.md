@@ -21,5 +21,5 @@ A user authentication system built with Node.js, Express, and MongoDB. This proj
 
 1. Clone the repository (or navigate to your project folder):
    ```bash
-   git clone <your-github-link>
+   git clone <(https://github.com/mortalolzhas123/mongo-session-auth)>
    cd mongo-session-auth
